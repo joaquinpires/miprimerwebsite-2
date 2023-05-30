@@ -156,3 +156,6 @@ p{
     flex-direction: column;
 
 }
+.greeting {
+    text-align: center;
+}
